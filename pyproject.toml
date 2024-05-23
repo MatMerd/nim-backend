@@ -14,6 +14,7 @@ rodi = "^2.0.6"
 aiohttp = "^3.9.5"
 backoff = "^2.2.1"
 uvicorn = "^0.29.0"
+jinja2 = "^3.1.4"
 
 
 [tool.poetry.group.dev.dependencies]
