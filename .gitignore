@@ -166,3 +166,4 @@ cython_debug/
 
 # Custom
 parse_event/
+tailwindcss
